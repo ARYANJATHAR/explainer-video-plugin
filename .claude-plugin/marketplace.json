@@ -1,0 +1,14 @@
+{
+  "name": "aryan-skills",
+  "owner": { "name": "ARYANJATHAR", "url": "https://github.com/ARYANJATHAR" },
+  "metadata": { "description": "Skills by ARYANJATHAR" },
+  "plugins": [
+    {
+      "name": "explainer-video",
+      "source": "./",
+      "description": "Narrated, hand-drawn animated explainer videos from any script.",
+      "version": "1.0.0",
+      "category": "media"
+    }
+  ]
+}

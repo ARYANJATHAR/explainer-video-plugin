@@ -1,0 +1,10 @@
+{
+  "name": "explainer-video",
+  "version": "1.0.0",
+  "description": "Turn a tweet, essay or script into a narrated, hand-drawn animated explainer video (MP4, 9:16 or 16:9) with voiceover, captions and music.",
+  "author": { "name": "ARYANJATHAR", "url": "https://github.com/ARYANJATHAR" },
+  "homepage": "https://github.com/ARYANJATHAR/explainer-video-plugin",
+  "repository": "https://github.com/ARYANJATHAR/explainer-video-plugin",
+  "license": "MIT",
+  "keywords": ["video", "animation", "explainer", "tts", "rough.js", "shorts"]
+}

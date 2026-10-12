@@ -1,0 +1,203 @@
+{
+ "voice": "en-US-AndrewNeural",
+ "rate": "-9%",
+ "intro": 4.2,
+ "outro": 8.5,
+ "gap_scale": 1.45,
+ "gap_pad": 0.1,
+ "display": [
+  [
+   "zero point zero zero zero zero six percent",
+   "0.00006%"
+  ],
+  [
+   "seventy-five percent",
+   "75%"
+  ],
+  [
+   "seventy five percent",
+   "75%"
+  ],
+  [
+   "zero point two percent",
+   "0.2%"
+  ],
+  [
+   "twenty percent",
+   "20%"
+  ],
+  [
+   "one to two billion",
+   "1–2 billion"
+  ],
+  [
+   "six billion",
+   "6 billion"
+  ],
+  [
+   "twenty million",
+   "20 million"
+  ],
+  [
+   "five thousand",
+   "5,000"
+  ]
+ ],
+ "cues": [
+  {
+   "id": "c1",
+   "text": "Dusting off this tweet from April, because this gap in shared understanding of LLM capability is widening.",
+   "gap": 0.7
+  },
+  {
+   "id": "c2",
+   "text": "It's now less two groups of people speaking past each other,",
+   "gap": 0.15
+  },
+  {
+   "id": "c3",
+   "text": "and more a sharp funnel.",
+   "gap": 1.6
+  },
+  {
+   "id": "c4",
+   "text": "Napkin math.",
+   "gap": 0.6
+  },
+  {
+   "id": "c5",
+   "text": "Somewhere around six billion people, about seventy-five percent of the population, have barely come in contact with LLMs at all.",
+   "gap": 1.4
+  },
+  {
+   "id": "c6",
+   "text": "Around one to two billion, about twenty percent, are casual and infrequent users of free-tier ChatGPT-like products.",
+   "gap": 0.6
+  },
+  {
+   "id": "c7",
+   "text": "This group sees derpy chatbots, and treats them a bit like a better Google search, a writing aid, and so on.",
+   "gap": 0.5
+  },
+  {
+   "id": "c8",
+   "text": "Maybe an agent tries to book you a flight.",
+   "gap": 0.7
+  },
+  {
+   "id": "c9",
+   "text": "I have non-tech friends who reasonably say they have not much use for it at all.",
+   "gap": 0.4
+  },
+  {
+   "id": "c9b",
+   "text": "Even many professionals outside of math and code are in this tier.",
+   "gap": 1.5
+  },
+  {
+   "id": "c10",
+   "text": "Now we get to professional use of frontier-grade LLMs, in math and code.",
+   "gap": 0.6
+  },
+  {
+   "id": "c11",
+   "text": "Somewhere around twenty million people, zero point two percent, see firsthand that large, complex projects that used to take them weeks or months can now be completed by agents, with a prompt.",
+   "gap": 0.7
+  },
+  {
+   "id": "c12",
+   "text": "Building apps. Copying apps. Translating apps. Decompiling apps from binaries.",
+   "gap": 0.6
+  },
+  {
+   "id": "c13",
+   "text": "This has all happened very quickly, and recently.",
+   "gap": 0.6
+  },
+  {
+   "id": "c14",
+   "text": "Less than one year ago, I was writing code manually, by hand, typing memorized computer code commands into a code editor, character by character, occasionally pressing Tab to autocomplete a little chunk of code.",
+   "gap": 1.6
+  },
+  {
+   "id": "c15",
+   "text": "And finally, we get to the roughly five thousand people, zero point zero zero zero zero six percent, with access to frontier-grade systems internally.",
+   "gap": 0.8
+  },
+  {
+   "id": "c16",
+   "text": "The external world has seen the preview.",
+   "gap": 0.5
+  },
+  {
+   "id": "c17",
+   "text": "It looks like swarms of thousands of agents, collaborating over weeks on software megaprojects.",
+   "gap": 0.5
+  },
+  {
+   "id": "c18",
+   "text": "Minting zero-days. Running cyber attacks and defenses at machine speeds. Discovering new science. Advancing the frontier of mathematics.",
+   "gap": 0.6
+  },
+  {
+   "id": "c19",
+   "text": "Things that would have taken top professionals in the industry years of work.",
+   "gap": 0.7
+  },
+  {
+   "id": "c20",
+   "text": "Meanwhile, human review and comprehension are starting to fall behind.",
+   "gap": 1.8
+  },
+  {
+   "id": "c21",
+   "text": "The funnel is driven by a combination of factors.",
+   "gap": 0.6
+  },
+  {
+   "id": "c22",
+   "text": "One. The impact scales with ambition, problem size, and horizon.",
+   "gap": 0.8
+  },
+  {
+   "id": "c23",
+   "text": "Two. The jaggedness of the system. Capability peaks in domains that are digital, verifiable, and economically valuable.",
+   "gap": 0.8
+  },
+  {
+   "id": "c24",
+   "text": "Three. Access. Free tier, paid tier, internal.",
+   "gap": 1.8
+  },
+  {
+   "id": "c25",
+   "text": "So this is the weirdness of the moment.",
+   "gap": 0.8
+  },
+  {
+   "id": "c26",
+   "text": "The general public has mostly not interacted with these systems.",
+   "gap": 0.4
+  },
+  {
+   "id": "c27",
+   "text": "When they have, it looks like a derpy chatbot.",
+   "gap": 0.6
+  },
+  {
+   "id": "c28",
+   "text": "The majority of professionals still see only a modest uplift.",
+   "gap": 0.6
+  },
+  {
+   "id": "c29",
+   "text": "And a small sliver of professionals are experiencing the vertigo of the curve going vertical.",
+   "gap": 0.9
+  },
+  {
+   "id": "c30",
+   "text": "And it is all happening at the same time.",
+   "gap": 0.0
+  }
+ ]
+}

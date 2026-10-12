@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Explainer</title>
+<style>
+  @font-face { font-family: Hand; font-weight: 500; src: url(node_modules/@fontsource/caveat/files/caveat-latin-500-normal.woff2); }
+  @font-face { font-family: Hand; font-weight: 700; src: url(node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2); }
+  @font-face { font-family: Sans; font-weight: 400; src: url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2); }
+  @font-face { font-family: Sans; font-weight: 500; src: url(node_modules/@fontsource/inter/files/inter-latin-500-normal.woff2); }
+  @font-face { font-family: Sans; font-weight: 600; src: url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2); }
+  @font-face { font-family: Sans; font-weight: 800; src: url(node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2); }
+  html, body { margin: 0; padding: 0; background: #f6f1e7; overflow: hidden; }
+  svg { display: block; width: 1080px; height: 1920px; }
+  text { font-kerning: normal; }
+</style>
+</head>
+<body>
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs id="defs"></defs>
+  <image href="paper.png" x="0" y="0" width="1080" height="1920"/>
+</svg>
+<!-- preload font faces so layout measurement is correct -->
+<div style="position:absolute;left:-9999px;font-family:Hand;font-weight:700">a<span style="font-weight:500">a</span><span style="font-family:Sans;font-weight:400">a</span><span style="font-family:Sans;font-weight:500">a</span><span style="font-family:Sans;font-weight:600">a</span><span style="font-family:Sans;font-weight:800">a</span></div>
+<script src="node_modules/roughjs/bundled/rough.js"></script>
+<script src="timeline.js"></script>
+<script src="engine.js"></script>
+<script src="scene.js"></script>
+</body>
+</html>
