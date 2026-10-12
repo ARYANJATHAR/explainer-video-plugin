@@ -6,6 +6,5 @@
   "homepage": "https://github.com/ARYANJATHAR/explainer-video-plugin",
   "repository": "https://github.com/ARYANJATHAR/explainer-video-plugin",
   "license": "MIT",
-  "icon": ".claude-plugin/icon.png",
   "keywords": ["video", "animation", "explainer", "tts", "rough.js", "shorts"]
 }
