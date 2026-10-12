@@ -37,6 +37,12 @@ Claude picks up the skill automatically (or invoke it with `/explainer-video`).
 | Chrome / Edge / Chromium | auto-detected; or set `CHROME_PATH` |
 | Internet | for the text-to-speech step |
 
+## Privacy / data
+
+- **Narration text is sent to Microsoft.** `tts.py` uses [edge-tts](https://github.com/rany2/edge-tts), which sends your script text to Microsoft's Edge online text-to-speech service to generate the voiceover. Don't put anything in a script you wouldn't want sent there.
+- **Packages are downloaded from npm** when a project is scaffolded (`roughjs`, `@fontsource/caveat`, `@fontsource/inter`, `playwright-core`).
+- **Nothing else leaves your machine.** Rendering, frame capture, music synthesis and encoding all run locally; output stays in your project folder. The skill collects no personal data and has no telemetry.
+
 ## How it works
 
 1. **Narration** — the script is split into cues and voiced with [edge-tts](https://github.com/rany2/edge-tts). Word-level timestamps are saved to `timeline.json`.
